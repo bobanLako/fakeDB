@@ -1,0 +1,229 @@
+[
+    {
+      "startTime": {
+        "status": "StartsAt",
+        "time": "16:00-06:00"
+      },
+      "teamA": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "190666",
+            "firstName": "Francesca",
+            "lastName": "Schiavone",
+            "country": "ITA"
+          },
+          "entryType": "Standard"
+        }
+      },
+      "eventId": "2017-1002-LS027",
+      "teamB": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "317755",
+            "firstName": "Monica",
+            "lastName": "Puig",
+            "country": "PUR"
+          },
+          "entryType": "Standard",
+          "seed": 4
+        }
+      },
+      "tournamentName": "Abierto Mexicano Telcel"
+    },
+    {
+      "startTime": {
+        "status": "StartsAt",
+        "time": "16:00-06:00"
+      },
+      "teamA": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "312328",
+            "firstName": "Madison",
+            "lastName": "Brengle",
+            "country": "USA"
+          },
+          "entryType": "Standard"
+        }
+      },
+      "eventId": "2017-1002-LS021",
+      "teamB": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "316979",
+            "firstName": "Annika",
+            "lastName": "Beck",
+            "country": "GER"
+          },
+          "entryType": "Standard"
+        }
+      },
+      "tournamentName": "Abierto Mexicano Telcel"
+    },
+    {
+      "startTime": {
+        "status": "StartsAt",
+        "time": "16:00-06:00"
+      },
+      "teamA": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "L503",
+            "firstName": "Paolo",
+            "lastName": "Lorenzi",
+            "country": "ITA"
+          },
+          "entryType": "Standard"
+        }
+      },
+      "eventId": "2017-0807-MS030",
+      "teamB": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "L575",
+            "firstName": "Yen-Hsun",
+            "lastName": "Lu",
+            "country": "TPE"
+          },
+          "entryType": "Standard"
+        }
+      },
+      "tournamentName": "Abierto Mexicano Telcel"
+    },
+    {
+      "startTime": {
+        "status": "StartsAt",
+        "time": "16:00-06:00"
+      },
+      "teamA": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "TA46",
+            "firstName": "Bernard",
+            "lastName": "Tomic",
+            "country": "AUS"
+          },
+          "entryType": "Standard"
+        }
+      },
+      "eventId": "2017-0807-MS018",
+      "teamB": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "Y124",
+            "firstName": "Donald",
+            "lastName": "Young",
+            "country": "USA"
+          },
+          "entryType": "SpecialExempt"
+        }
+      },
+      "tournamentName": "Abierto Mexicano Telcel"
+    },
+    {
+      "startTime": {
+        "status": "StartsAt",
+        "time": "16:00-06:00"
+      },
+      "teamA": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "80394",
+            "firstName": "Daniela",
+            "lastName": "Hantuchova",
+            "country": "SVK"
+          },
+          "entryType": "Wildcard"
+        }
+      },
+      "eventId": "2017-1002-LS026",
+      "teamB": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "312536",
+            "firstName": "Yanina",
+            "lastName": "Wickmayer",
+            "country": "BEL"
+          },
+          "entryType": "Standard"
+        }
+      },
+      "tournamentName": "Abierto Mexicano Telcel"
+    },
+    {
+      "startTime": {
+        "status": "StartsAt",
+        "time": "16:00-06:00"
+      },
+      "teamA": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "D801",
+            "firstName": "Alexandr",
+            "lastName": "Dolgopolov",
+            "country": "UKR"
+          },
+          "entryType": "Wildcard"
+        }
+      },
+      "eventId": "2017-0807-MS027",
+      "teamB": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "C977",
+            "firstName": "Marin",
+            "lastName": "Cilic",
+            "country": "CRO"
+          },
+          "entryType": "Standard",
+          "seed": 3
+        }
+      },
+      "tournamentName": "Abierto Mexicano Telcel"
+    },
+    {
+      "startTime": {
+        "status": "NotBefore",
+        "time": "18:30-03:00"
+      },
+      "teamA": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "B884",
+            "firstName": "Carlos",
+            "lastName": "Berlocq",
+            "country": "ARG"
+          },
+          "entryType": "Standard",
+          "seed": 8
+        }
+      },
+      "eventId": "2017-0533-MS028",
+      "teamB": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "MJ08",
+            "firstName": "Thiago",
+            "lastName": "Monteiro",
+            "country": "BRA"
+          },
+          "entryType": "Standard"
+        }
+      },
+      "tournamentName": "Brasil Open"
+    }
+  ]

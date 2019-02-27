@@ -1,0 +1,384 @@
+[
+    {
+      "city": "ST. PETERSBURG",
+      "location": "RUSSIA",
+      "endDate": "2017-02-05",
+      "surface": "Hard",
+      "identifier": 846,
+      "year": 2017,
+      "numberOfMatchesBookedToday": 0,
+      "numberOfMatches": 70,
+      "eventsResource": "/tennis/tournaments/846/events",
+      "sport": "Tennis",
+      "countryCode": "RUS",
+      "status": "Confirmed",
+      "comment": "The following match will start at 12:30 local time: [5] E. Vesnina (RUS) vs [2] D. Cibulkova (SVK) (eventID: 2017-1086-LS007)",
+      "environment": "Indoor",
+      "tournamentName": "St. Petersburg Ladies Trophy - St. Petersburg, Russia",
+      "eventsSummary": {
+        "2017-01-31": {
+          "LD": 3,
+          "LS": 8
+        },
+        "2017-02-01": {
+          "LS": 5,
+          "LD": 5
+        },
+        "2017-01-30": {
+          "LD": 1,
+          "QLS": 4,
+          "LS": 3
+        },
+        "2017-01-29": {
+          "QLS": 8
+        },
+        "2017-02-03": {
+          "LD": 1,
+          "LS": 4
+        },
+        "2017-02-02": {
+          "LD": 3,
+          "LS": 4
+        },
+        "2017-01-28": {
+          "QLS": 16
+        },
+        "2017-02-04": {
+          "LD": 1,
+          "LS": 2
+        },
+        "2017-02-05": {
+          "LD": 1,
+          "LS": 1
+        }
+      },
+      "utcOffset": 4,
+      "startDate": "2017-01-28",
+      "bookingStatus": {
+        "status": "PartiallyBooked"
+      },
+      "competitions": [
+        {
+          "organisation": "WTA",
+          "externalId": "1086",
+          "endDate": "2017-02-05",
+          "competitionType": "Premier",
+          "singlesDrawSize": 32,
+          "singlesQualifyingDrawSize": 32,
+          "doublesDrawSize": 16,
+          "doublesQualifyingDrawSize": 0,
+          "competitionId": "2017-1086",
+          "licencingProperty": "TENNIS_ATPWTA",
+          "startDate": "2017-01-28"
+        }
+      ]
+    },
+    {
+      "city": "Acapulco",
+      "location": "Mexico",
+      "endDate": "2017-03-04",
+      "surface": "Hard",
+      "identifier": 829,
+      "year": 2017,
+      "numberOfMatchesBookedToday": 0,
+      "numberOfMatches": 70,
+      "eventsResource": "/tennis/tournaments/829/events",
+      "sport": "Tennis",
+      "countryCode": "MEX",
+      "status": "Confirmed",
+      "comment": "The following match R. Albot (MDA)  / M. Zverev (GER) vs [2] A. Mannarino (FRA)  / J. Thompson (AUS) (eventID: 2017-0807-QD001) will now be played on Grand Stand Caliente and will start not before 22:45 local time.",
+      "environment": "Outdoor",
+      "tournamentName": "Abierto Mexicano Telcel",
+      "eventsSummary": {
+        "2017-02-28": {
+          "MS": 10,
+          "MD": 2,
+          "LD": 3,
+          "LS": 9
+        },
+        "2017-02-27": {
+          "LS": 7,
+          "MS": 6
+        },
+        "2017-02-25": {
+          "QLS": 12,
+          "QMD": 2,
+          "QMS": 8
+        },
+        "2017-02-26": {
+          "QLS": 6,
+          "QMD": 1,
+          "QMS": 4
+        }
+      },
+      "utcOffset": -6,
+      "startTimeOfFirstBookedMatchToday": "16:00-06:00",
+      "startDate": "2017-02-25",
+      "bookingStatus": {
+        "status": "PartiallyBooked"
+      },
+      "competitions": [
+        {
+          "organisation": "ATP",
+          "externalId": "0807",
+          "endDate": "2017-03-04",
+          "competitionType": "500",
+          "singlesDrawSize": 32,
+          "singlesQualifyingDrawSize": 16,
+          "doublesDrawSize": 16,
+          "doublesQualifyingDrawSize": 4,
+          "competitionId": "2017-0807",
+          "licencingProperty": "TENNIS_ATPWTA",
+          "startDate": "2017-02-25"
+        },
+        {
+          "organisation": "WTA",
+          "externalId": "1002",
+          "endDate": "2017-03-04",
+          "competitionType": "Internationals",
+          "singlesDrawSize": 32,
+          "singlesQualifyingDrawSize": 24,
+          "doublesDrawSize": 16,
+          "doublesQualifyingDrawSize": 0,
+          "competitionId": "2017-1002",
+          "licencingProperty": "TENNIS_ATPWTA",
+          "startDate": "2017-02-25"
+        }
+      ]
+    },
+    {
+      "city": "Dubai",
+      "location": "U.A.E.",
+      "endDate": "2017-03-04",
+      "surface": "Hard",
+      "identifier": 841,
+      "year": 2017,
+      "numberOfMatchesBookedToday": 0,
+      "numberOfMatches": 37,
+      "eventsResource": "/tennis/tournaments/841/events",
+      "sport": "Tennis",
+      "countryCode": "ARE",
+      "status": "Confirmed",
+      "comment": "Two courtsiders&nbsp;have been removed from Centre Court during the match&nbsp;D. Dzumhur (BIH) vs [2] S. Wawrinka (SUI) (eventID: 2017-0495-MS031) while the score was 7/6 6/3.",
+      "environment": "Outdoor",
+      "tournamentName": "Dubai Duty Free Tennis Championships ",
+      "eventsSummary": {
+        "2017-02-27": {
+          "MD": 3,
+          "MS": 6,
+          "QMD": 1,
+          "QMS": 3
+        },
+        "2017-02-25": {
+          "QMS": 8,
+          "QMD": 2
+        },
+        "2017-02-26": {
+          "QMS": 1
+        },
+        "2017-02-28": {
+          "MS": 10,
+          "MD": 3
+        }
+      },
+      "utcOffset": 4,
+      "startTimeOfFirstBookedMatchToday": "14:00+04:00",
+      "startDate": "2017-02-25",
+      "bookingStatus": {
+        "status": "PartiallyBooked"
+      },
+      "competitions": [
+        {
+          "organisation": "ATP",
+          "externalId": "0495",
+          "endDate": "2017-03-04",
+          "competitionType": "500",
+          "singlesDrawSize": 32,
+          "singlesQualifyingDrawSize": 16,
+          "doublesDrawSize": 16,
+          "doublesQualifyingDrawSize": 4,
+          "competitionId": "2017-0495",
+          "licencingProperty": "TENNIS_ATPWTA",
+          "startDate": "2017-02-25"
+        }
+      ]
+    },
+    {
+      "city": "Rotterdam",
+      "location": "Netherlands",
+      "endDate": "2017-02-19",
+      "surface": "Hard",
+      "identifier": 838,
+      "year": 2017,
+      "numberOfMatchesBookedToday": 0,
+      "numberOfMatches": 60,
+      "eventsResource": "/tennis/tournaments/838/events",
+      "sport": "Tennis",
+      "countryCode": "NLD",
+      "status": "Confirmed",
+      "comment": "A courtsider was removed during the match between [1] Marin Cilic (CRO) vs [6] Jo-Wilfried Tsonga (FRA) (eventID: 2017-0407-MS004). The score at the time of the removal was 6-5 in the first set.",
+      "environment": "Indoor",
+      "tournamentName": "ABN Amro World Tennis Tournament",
+      "eventsSummary": {
+        "2017-02-18": {
+          "MS": 2,
+          "MD": 2
+        },
+        "2017-02-16": {
+          "MS": 5,
+          "MD": 3
+        },
+        "2017-02-11": {
+          "QMD": 2,
+          "QMS": 7
+        },
+        "2017-02-14": {
+          "MD": 5,
+          "MS": 7
+        },
+        "2017-02-19": {
+          "MS": 1,
+          "MD": 1
+        },
+        "2017-02-15": {
+          "MS": 7,
+          "MD": 3
+        },
+        "2017-02-13": {
+          "MS": 5
+        },
+        "2017-02-17": {
+          "MS": 4,
+          "MD": 1
+        },
+        "2017-02-12": {
+          "QMS": 4,
+          "QMD": 1
+        }
+      },
+      "utcOffset": 1,
+      "startDate": "2017-02-11",
+      "bookingStatus": {
+        "status": "PartiallyBooked"
+      },
+      "competitions": [
+        {
+          "organisation": "ATP",
+          "externalId": "0407",
+          "endDate": "2017-02-19",
+          "competitionType": "500",
+          "singlesDrawSize": 32,
+          "singlesQualifyingDrawSize": 16,
+          "doublesDrawSize": 16,
+          "doublesQualifyingDrawSize": 4,
+          "competitionId": "2017-0407",
+          "licencingProperty": "TENNIS_ATPWTA",
+          "startDate": "2017-02-11"
+        }
+      ]
+    },
+    {
+      "city": "Sao Paulo",
+      "location": "Brazil",
+      "endDate": "2017-03-05",
+      "surface": "Clay",
+      "identifier": 834,
+      "year": 2017,
+      "numberOfMatchesBookedToday": 0,
+      "numberOfMatches": 30,
+      "eventsResource": "/tennis/tournaments/834/events",
+      "sport": "Tennis",
+      "countryCode": "BRA",
+      "status": "Confirmed",
+      "comment": "Play has now resumed on all courts.",
+      "environment": "Outdoor",
+      "tournamentName": "Brasil Open",
+      "eventsSummary": {
+        "2017-02-25": {
+          "QMS": 8
+        },
+        "2017-02-26": {
+          "QMS": 4
+        },
+        "2017-02-27": {
+          "MD": 4,
+          "MS": 3
+        },
+        "2017-02-28": {
+          "MD": 2,
+          "MS": 9
+        }
+      },
+      "utcOffset": -3,
+      "startTimeOfFirstBookedMatchToday": "12:30-03:00",
+      "startDate": "2017-02-25",
+      "bookingStatus": {
+        "status": "PartiallyBooked"
+      },
+      "competitions": [
+        {
+          "organisation": "ATP",
+          "externalId": "0533",
+          "endDate": "2017-03-05",
+          "competitionType": "250",
+          "singlesDrawSize": 32,
+          "singlesQualifyingDrawSize": 16,
+          "doublesDrawSize": 16,
+          "doublesQualifyingDrawSize": 0,
+          "competitionId": "2017-0533",
+          "licencingProperty": "TENNIS_ATPWTA",
+          "startDate": "2017-02-25"
+        }
+      ]
+    },
+    {
+      "city": "Indian Wells",
+      "location": "CA, U.S.A.",
+      "endDate": "2017-03-19",
+      "surface": "Hard",
+      "identifier": 862,
+      "year": 2017,
+      "numberOfMatchesBookedToday": 0,
+      "numberOfMatches": 356,
+      "eventsResource": "/tennis/tournaments/862/events",
+      "sport": "Tennis",
+      "countryCode": "USA",
+      "status": "Confirmed",
+      "environment": "Outdoor",
+      "tournamentName": "BNP Paribas Open",
+      "eventsSummary": {},
+      "utcOffset": -8,
+      "startDate": "2017-03-06",
+      "bookingStatus": {
+        "status": "PartiallyBooked"
+      },
+      "competitions": [
+        {
+          "organisation": "ATP",
+          "externalId": "0404",
+          "endDate": "2017-03-19",
+          "competitionType": "1000",
+          "singlesDrawSize": 96,
+          "singlesQualifyingDrawSize": 48,
+          "doublesDrawSize": 32,
+          "doublesQualifyingDrawSize": 0,
+          "competitionId": "2017-0404",
+          "licencingProperty": "TENNIS_ATPWTA",
+          "startDate": "2017-03-07"
+        },
+        {
+          "organisation": "WTA",
+          "externalId": "0609",
+          "endDate": "2017-03-19",
+          "competitionType": "PremierMandatory",
+          "singlesDrawSize": 128,
+          "singlesQualifyingDrawSize": 48,
+          "doublesDrawSize": 32,
+          "doublesQualifyingDrawSize": 0,
+          "competitionId": "2017-0609",
+          "licencingProperty": "TENNIS_ATPWTA",
+          "startDate": "2017-03-06"
+        }
+      ]
+    }
+]

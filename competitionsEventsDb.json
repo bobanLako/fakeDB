@@ -1,0 +1,322 @@
+[
+    {
+      "startTime": {
+        "status": "FollowsPrevious",
+        "time": "17:08-06:00"
+      },
+      "courtSeq": 2,
+      "courtName": "Grand Stand Caliente",
+      "startTimeText": "Followed By",
+      "teamA": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "H940",
+            "firstName": "Ryan",
+            "lastName": "Harrison",
+            "country": "USA"
+          },
+          "entryType": "Standard",
+          "seed": 1
+        }
+      },
+      "matchType": "QMS",
+      "eventId": "2017-0807-QS008",
+      "date": "2017-02-25",
+      "status": "Finished",
+      "round": "Q2",
+      "teamB": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "E690",
+            "firstName": "Matthew",
+            "lastName": "Ebden",
+            "country": "AUS"
+          },
+          "entryType": "ProtectedRank"
+        }
+      },
+      "competitionId": "2017-0807",
+      "bookingStatus": {
+        "status": "NotBooked"
+      },
+      "courtId": "2"
+    },
+    {
+      "startTime": {
+        "status": "FollowsPrevious",
+        "time": "19:39-06:00"
+      },
+      "courtSeq": 4,
+      "courtName": "Grand Stand Caliente",
+      "startTimeText": "Followed By",
+      "teamA": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "TC61",
+            "firstName": "Jordan",
+            "lastName": "Thompson",
+            "country": "AUS"
+          },
+          "entryType": "Standard",
+          "seed": 2
+        }
+      },
+      "matchType": "QMS",
+      "eventId": "2017-0807-QS010",
+      "date": "2017-02-25",
+      "status": "Finished",
+      "round": "Q2",
+      "teamB": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "RH88",
+            "firstName": "Alan Fernando",
+            "lastName": "Rubio Fierros",
+            "country": "MEX"
+          },
+          "entryType": "Wildcard"
+        }
+      },
+      "competitionId": "2017-0807",
+      "bookingStatus": {
+        "status": "NotBooked"
+      },
+      "courtId": "2"
+    },
+    {
+      "startTime": {
+        "status": "FollowsPrevious",
+        "time": "21:29-06:00"
+      },
+      "courtSeq": 5,
+      "courtName": "Grand Stand Caliente",
+      "startTimeText": "Followed By",
+      "teamA": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "A853",
+            "firstName": "Marcelo",
+            "lastName": "Arevalo",
+            "country": "ESA"
+          },
+          "entryType": "Wildcard",
+          "player2": {
+            "id": "PE42",
+            "firstName": "Luis",
+            "lastName": "Patino",
+            "country": "MEX"
+          }
+        }
+      },
+      "matchType": "QMD",
+      "eventId": "2017-0807-QD003",
+      "date": "2017-02-25",
+      "status": "Finished",
+      "round": "Q2",
+      "teamB": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "ME82",
+            "firstName": "Adrian",
+            "lastName": "Mannarino",
+            "country": "FRA"
+          },
+          "entryType": "Standard",
+          "player2": {
+            "id": "TC61",
+            "firstName": "Jordan",
+            "lastName": "Thompson",
+            "country": "AUS"
+          },
+          "seed": 2
+        }
+      },
+      "competitionId": "2017-0807",
+      "bookingStatus": {
+        "status": "NotBooked"
+      },
+      "courtId": "2"
+    },
+    {
+      "startTime": {
+        "status": "FollowsPrevious",
+        "time": "17:24-06:00"
+      },
+      "courtSeq": 2,
+      "courtName": "Cancha 2",
+      "startTimeText": "Followed By",
+      "teamA": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "SI82",
+            "firstName": "Manuel",
+            "lastName": "Sanchez",
+            "country": "MEX"
+          },
+          "entryType": "Wildcard"
+        }
+      },
+      "matchType": "QMS",
+      "eventId": "2017-0807-QS013",
+      "date": "2017-02-25",
+      "status": "Finished",
+      "round": "Q2",
+      "teamB": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "DC58",
+            "firstName": "Jared",
+            "lastName": "Donaldson",
+            "country": "USA"
+          },
+          "entryType": "Standard",
+          "seed": 8
+        }
+      },
+      "competitionId": "2017-0807",
+      "bookingStatus": {
+        "status": "NotBooked"
+      },
+      "courtId": "3"
+    },
+    {
+      "startTime": {
+        "status": "FollowsPrevious",
+        "time": "21:09-06:00"
+      },
+      "courtSeq": 4,
+      "courtName": "Cancha 2",
+      "startTimeText": "Followed By",
+      "teamA": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "CH47",
+            "firstName": "Kevin Jack",
+            "lastName": "Carpenter",
+            "country": "MEX"
+          },
+          "entryType": "Wildcard"
+        }
+      },
+      "matchType": "QMS",
+      "eventId": "2017-0807-QS015",
+      "date": "2017-02-25",
+      "status": "Finished",
+      "round": "Q2",
+      "teamB": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "TD51",
+            "firstName": "Frances",
+            "lastName": "Tiafoe",
+            "country": "USA"
+          },
+          "entryType": "Standard",
+          "seed": 5
+        }
+      },
+      "competitionId": "2017-0807",
+      "bookingStatus": {
+        "status": "NotBooked"
+      },
+      "courtId": "3"
+    },
+    {
+      "startTime": {
+        "status": "FollowsPrevious",
+        "time": "17:33-06:00"
+      },
+      "courtSeq": 2,
+      "courtName": "Cancha 3",
+      "startTimeText": "Followed By",
+      "teamA": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "CH27",
+            "firstName": "Hyeon",
+            "lastName": "Chung",
+            "country": "KOR"
+          },
+          "entryType": "Standard",
+          "seed": 3
+        }
+      },
+      "matchType": "QMS",
+      "eventId": "2017-0807-QS012",
+      "date": "2017-02-25",
+      "status": "Finished",
+      "round": "Q2",
+      "teamB": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "KE64",
+            "firstName": "Stefan",
+            "lastName": "Kozlov",
+            "country": "USA"
+          },
+          "entryType": "Standard"
+        }
+      },
+      "competitionId": "2017-0807",
+      "bookingStatus": {
+        "status": "NotBooked"
+      },
+      "courtId": "4"
+    },
+    {
+      "startTime": {
+        "status": "FollowsPrevious",
+        "time": "21:12-06:00"
+      },
+      "courtSeq": 4,
+      "courtName": "Cancha 3",
+      "startTimeText": "Followed By",
+      "teamA": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "A829",
+            "firstName": "Radu",
+            "lastName": "Albot",
+            "country": "MDA"
+          },
+          "entryType": "Standard",
+          "seed": 4
+        }
+      },
+      "matchType": "QMS",
+      "eventId": "2017-0807-QS014",
+      "date": "2017-02-25",
+      "status": "Finished",
+      "round": "Q2",
+      "teamB": {
+        "status": "KnownTennisTeam",
+        "team": {
+          "player1": {
+            "id": "G725",
+            "firstName": "Santiago",
+            "lastName": "Giraldo",
+            "country": "COL"
+          },
+          "entryType": "Standard"
+        }
+      },
+      "competitionId": "2017-0807",
+      "bookingStatus": {
+        "status": "NotBooked"
+      },
+      "courtId": "4"
+    }
+]
