@@ -209,27 +209,6 @@
           "stageType": "Knockout"
         },
         {
-          "teamA": {
-            "status": "KnownTennisTeam",
-            "team": {
-              "player1": {
-                "id": "I165",
-                "firstName": "Denis",
-                "lastName": "Istomin",
-                "country": "UZB"
-              },
-              "entryType": "Standard",
-              "seed": 2
-            }
-          },
-          "eventId": "QS010",
-          "round": 2,
-          "teamB": {
-            "status": "Bye"
-          },
-          "stageType": "Knockout"
-        },
-        {
           "estimatedTime": "12:30+01:00",
           "teamA": {
             "status": "KnownTennisTeam",
