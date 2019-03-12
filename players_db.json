@@ -1,0 +1,134 @@
+[
+    {
+        "currentSinglesRankTied": false,
+        "playerSummary": {
+          "id": "SY43",
+          "firstName": "Marcel",
+          "lastName": "Strickroth",
+          "country": "GER"
+        },
+        "doublesRollingPoints": 0,
+        "singlesRollingPoints": 0,
+        "dateOfBirth": "1996-08-29",
+        "currentDoublesRankTied": false,
+        "rankDate": "2015-11-30",
+        "singlesRacePoints": 0,
+        "gender": "Male",
+        "active": true,
+        "currentYTDRankTied": false
+      },
+      {
+        "currentSinglesRankTied": true,
+        "playerSummary": {
+          "id": "A339",
+          "firstName": "Johnny",
+          "lastName": "Arcilla",
+          "country": "PHI"
+        },
+        "doublesRollingPoints": 35,
+        "currentDoublesRank": 946,
+        "singlesRollingPoints": 2,
+        "dateOfBirth": "1980-02-15",
+        "currentDoublesRankTied": false,
+        "rankDate": "2015-11-30",
+        "currentSinglesRank": 1561,
+        "singlesRacePoints": 0,
+        "gender": "Male",
+        "active": true,
+        "currentYTDRankTied": false
+      },
+      {
+        "currentSinglesRankTied": false,
+        "playerSummary": {
+          "id": "A402",
+          "firstName": "Haluk",
+          "lastName": "Akkoyun",
+          "country": "TUR"
+        },
+        "doublesRollingPoints": 0,
+        "singlesRollingPoints": 0,
+        "dateOfBirth": "1981-04-25",
+        "currentDoublesRankTied": false,
+        "rankDate": "2015-11-30",
+        "singlesRacePoints": 0,
+        "gender": "Male",
+        "active": true,
+        "currentYTDRankTied": false
+      },
+      {
+        "currentSinglesRankTied": false,
+        "playerSummary": {
+          "id": "A589",
+          "firstName": "Angel",
+          "lastName": "Alonso-Campos",
+          "country": "ESP"
+        },
+        "doublesRollingPoints": 0,
+        "singlesRollingPoints": 0,
+        "dateOfBirth": "1984-02-05",
+        "currentDoublesRankTied": false,
+        "rankDate": "2015-11-30",
+        "singlesRacePoints": 0,
+        "gender": "Male",
+        "active": true,
+        "currentYTDRankTied": false
+      },
+      {
+        "currentSinglesRankTied": false,
+        "playerSummary": {
+          "id": "A787",
+          "firstName": "Ivan",
+          "lastName": "Arenas-Gualda",
+          "country": "ESP"
+        },
+        "doublesRollingPoints": 294,
+        "currentDoublesRank": 240,
+        "singlesRollingPoints": 26,
+        "dateOfBirth": "1990-10-31",
+        "currentDoublesRankTied": false,
+        "rankDate": "2015-11-30",
+        "currentSinglesRank": 800,
+        "singlesRacePoints": 0,
+        "gender": "Male",
+        "active": true,
+        "currentYTDRankTied": false
+      },
+      {
+        "currentSinglesRankTied": false,
+        "playerSummary": {
+          "id": "A930",
+          "firstName": "Hamad Abbas",
+          "lastName": "Janahi",
+          "country": "UAE"
+        },
+        "doublesRollingPoints": 0,
+        "singlesRollingPoints": 0,
+        "dateOfBirth": "1990-08-04",
+        "currentDoublesRankTied": false,
+        "rankDate": "2015-11-30",
+        "singlesRacePoints": 0,
+        "gender": "Male",
+        "active": true,
+        "currentYTDRankTied": false
+      },
+      {
+        "currentSinglesRankTied": true,
+        "playerSummary": {
+          "id": "A633",
+          "firstName": "Victor-Mugurel",
+          "lastName": "Anagnastopol",
+          "country": "ROU"
+        },
+        "doublesRollingPoints": 54,
+        "currentDoublesRank": 787,
+        "singlesRollingPoints": 1,
+        "dateOfBirth": "1986-03-23",
+        "currentDoublesRankTied": false,
+        "rankDate": "2015-11-30",
+        "currentSinglesRank": 1997,
+        "singlesRacePoints": 0,
+        "gender": "Male",
+        "active": true,
+        "currentYTDRankTied": false
+      }
+]
